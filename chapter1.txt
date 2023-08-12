@@ -1,2 +1,4 @@
 This is chapter 1 of git, 
 we just have initialize git 
+
+I made this change on serve
